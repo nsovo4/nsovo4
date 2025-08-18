@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=nsovo4&label=Profile%20Views&color=0e75b6&style=flat)
+
 ## 👋 Hi, I’m Nsovo Mboweni
 
 💻 I’m a Software Developer from South Africa.  
