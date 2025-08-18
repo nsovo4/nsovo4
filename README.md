@@ -16,7 +16,8 @@
 
 ![GitHub stars](https://img.shields.io/github/stars/nsovo4?style=for-the-badge&logo=github&color=yellow)
 
-![GitHub commits](https://img.shields.io/github/commit-activity/y/nsovo4?style=for-the-badge&logo=git&color=blue)
+![GitHub commits this year](https://img.shields.io/github/commit-activity/y/nsovo4?style=for-the-badge&logo=git&color=blue&label=Commits)
+
 
 
 ## 🌐 Connect with Me
