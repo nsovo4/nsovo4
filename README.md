@@ -14,6 +14,6 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=nsovo4&show_icons=true&theme=radical)
 
 ## 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/your-link-here)
-- [Twitter](https://twitter.com/your-handle)
+- [LinkedIn](https://www.linkedin.com/in/your-link-here](https://www.linkedin.com/in/nsovomboweni/)
+- [Twitter](https://twitter.com/NsvDevelops)
 
