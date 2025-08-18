@@ -14,9 +14,9 @@
 
 ## 📊 GitHub Stats
 
-![Total Stars](https://custom-icon-badges.demolab.com/github/stars/nsovo4?color=yellow&label=Stars&logo=star)
+![GitHub stars](https://img.shields.io/github/stars/nsovo4?style=for-the-badge&logo=github&color=yellow)
 
-![Total Commits](https://custom-icon-badges.demolab.com/github/commit-activity/y/nsovo4?color=blue&label=Commits&logo=commit)
+![GitHub commits](https://img.shields.io/github/commit-activity/y/nsovo4?style=for-the-badge&logo=git&color=blue)
 
 
 ## 🌐 Connect with Me
