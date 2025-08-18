@@ -1,16 +1,19 @@
-## Hi there 👋
+## 👋 Hi, I’m Nsovo Mboweni
 
-<!--
-**nsovo4/nsovo4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I’m a Software Developer from South Africa.  
+🚀 Currently working on: FeatherTrail (bird-watching app) & Burgundy Supplies (e-commerce).  
+🌱 Learning: TypeScript, frameworks, and full-stack development.  
+🔭 Interests: Web dev, mobile apps, cloud (Azure), and APIs.  
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- Languages: HTML, CSS, JavaScript, PHP, C#, Kotlin, SQL
+- Frameworks: .NET, React
+- Tools: Git, GitHub, Azure, Firebase
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=nsovo4&show_icons=true&theme=radical)
+
+## 🌐 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/your-link-here)
+- [Twitter](https://twitter.com/your-handle)
+
