@@ -20,5 +20,4 @@
 ## 🌐 Connect with Me
 - [Portfolio](https://nsovo4.github.io/Portfolio-Website/)
 - [LinkedIn](https://www.linkedin.com/in/nsovomboweni/)
-- [Twitter](https://twitter.com/NsvDevelops)
 
